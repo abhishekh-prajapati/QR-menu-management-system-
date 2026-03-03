@@ -6,7 +6,7 @@ The system includes an admin panel for managing menu items, categories, prices, 
 This system is designed to reduce printing costs, simplify menu updates, and minimize physical contact.
 Core Features
 Customer Side
-QR code access to menu
+QR code access to menu.
 Mobile-friendly responsive UI
 Category-wise menu display
 Item details (name, price, description, image if enabled)
